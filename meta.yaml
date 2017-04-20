@@ -1,0 +1,19 @@
+package:
+  name: anki_utilities
+  version: "0.0.001"
+
+source:
+  path: ../anki_utilities
+
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python
+
+about:
+  home: https://github.com/suri5471/anki_utilities
+  license: MIT
+  license_file: LICENSE
+  summary: Convert pdf to flashcard deck.

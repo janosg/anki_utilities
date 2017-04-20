@@ -1,1 +1,1 @@
-# anki_utilities
+This is a very small program that is useful to convert lecture notes written on a tablet to flashcards that can be imported into Anki. It should work on all major platforms but is only tested on Linux.

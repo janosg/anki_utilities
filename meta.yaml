@@ -1,6 +1,6 @@
 package:
   name: anki_utilities
-  version: "0.0.001"
+  version: "0.0.007"
 
 source:
   path: ../anki_utilities
@@ -11,6 +11,8 @@ requirements:
     - setuptools
   run:
     - python
+    - pypdf2
+    - pillow
 
 about:
   home: https://github.com/suri5471/anki_utilities
